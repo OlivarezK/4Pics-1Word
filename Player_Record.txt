@@ -1,0 +1,16 @@
+
+Level: 1;Coins: 100;Picture: war
+Level: 2;Coins: 110;Picture: wax
+Level: 3;Coins: 118;Picture: way
+Level: 4;Coins: 108;Picture: wet
+
+Level: 1;Coins: 100;Picture: war
+
+Level: 1;Coins: 100;Picture: war
+Level: 2;Coins: 108;Picture: wax
+Level: 3;Coins: 98;Picture: way
+
+Level: 1;Coins: 100;Picture: war
+
+Level: 1;Coins: 100;Picture: war
+Level: 2;Coins: 110;Picture: wax
